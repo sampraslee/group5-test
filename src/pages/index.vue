@@ -13,6 +13,14 @@
       </v-col>
       <!-- Insert a new column here containing your v-card -->
     </v-row>
+    <v-row class="mt-3" align="center">
+      <v-col cols="4">
+        <v-card class="elevation-3 rounded-lg">
+          <v-card-title>Kangkungs</v-card-title>
+          <v-card-text>Kangkung haii</v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 
