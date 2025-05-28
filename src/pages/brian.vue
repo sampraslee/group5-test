@@ -3,7 +3,7 @@
       <v-card class="elevation-3 rounded-lg">
         <v-card-title>Brian</v-card-title>
         <v-card-text
-          >Please help me. I want to die.</v-card-text
+          >Please help me. I want to die. Thank you.</v-card-text
         >
       </v-card>
     </v-col>
