@@ -11,6 +11,7 @@
           >
         </v-card>
       </v-col>
+      <!-- Insert a new column here containing your v-card -->
     </v-row>
   </v-container>
 </template>
