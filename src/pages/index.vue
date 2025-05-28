@@ -12,6 +12,10 @@
         </v-card>
       </v-col>
       <!-- Insert a new column here containing your v-card -->
+      <v-card>
+        <v-card-title>TESTING OWN CARD</v-card-title>
+        <v-card-text>ARIF PUNYAHAHHAHA?</v-card-text>
+      </v-card>
     </v-row>
   </v-container>
 </template>
