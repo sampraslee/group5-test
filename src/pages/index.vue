@@ -11,6 +11,16 @@
           >
         </v-card>
       </v-col>
+  <v-row class="mt-3" align="center">
+    <v-col cols="4">
+      <v-card class="elevation-3 rounded-lg">
+        <v-card-title>Brian</v-card-title>
+        <v-card-text
+          >Please help me. Thank you. Please come again. Hello friend</v-card-text
+        >
+      </v-card>
+    </v-col>
+  </v-row>
       <!-- Insert a new column here containing your v-card -->
     </v-row>
   </v-container>
