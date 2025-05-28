@@ -4,14 +4,19 @@
     <v-row class="mt-3" align="center">
       <v-col cols="4">
         <v-card class="elevation-3 rounded-lg">
-          <v-card-title>Sam</v-card-title>
+          <v-card-title>Bayam</v-card-title>
           <v-card-text
-            >Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Similique, doloribus?</v-card-text
+            >Water daily</v-card-text
           >
         </v-card>
       </v-col>
       <!-- Insert a new column here containing your v-card -->
+       <v-col>
+       <v-card class="elevation-3 rounded-lg">
+        <v-card-title>Sawi</v-card-title>
+          <v-card-text>Water hari-hari</v-card-text>
+       </v-card>
+       </v-col>
     </v-row>
   </v-container>
 </template>
