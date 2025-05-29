@@ -11,6 +11,12 @@
           >
         </v-card>
       </v-col>
+      <v-col cols="4">
+        <v-card class="elevation-3 rounded-lg">
+          <v-card-title>Brian</v-card-title>
+          <v-card-text>Fuck fuckity fucking fuck fucky ducky wucky</v-card-text>
+        </v-card>
+      </v-col>
       <!-- Insert a new column here containing your v-card -->
     </v-row>
   </v-container>
